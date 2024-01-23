@@ -1,0 +1,7 @@
+모두의 코드 내용
+iostream 헤더파일 : 입출력에 필요한 것들 포함 (input, ouput stream)
+int main() :  프로그램이 실행될 때 가장 먼저 실행되는 함수
+namespace(이름 공간) : 정의된 객체에 대해 소속을 지정한 것      ex) std::cout;
+std : 입출력 위한 표준 라이브러리
+namespace 계속 사용하는 경우 => using  +  namespace  +  namespace의 이름
+ex) using namespace std; => cout만 적으면 됨     cout만 사용할 경우  using std::cout; =>
